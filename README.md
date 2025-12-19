@@ -54,7 +54,7 @@ A comprehensive Python library for hydrological and advanced hydrological calcul
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/dehongi/hydrology.git
 cd hydrology
 
 # Create and activate virtual environment
